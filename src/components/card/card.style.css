@@ -1,0 +1,18 @@
+.card {
+	display: flex;
+	align-items: center;
+	background-color: aqua;
+	padding: 30px;
+	flex-direction: column;
+	border-radius: 5px;
+	transform: translateZ(0);
+	transition: transform 0.35s ease-out;
+}
+.card:hover {
+	transform: scale(1.05);
+}
+.card h1 {
+	font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+	font-size: 20px;
+	color: black;
+}
