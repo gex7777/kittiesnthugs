@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/kittiesnthugs/static/css/main.fb82b465.chunk.css",
+    "main.js": "/kittiesnthugs/static/js/main.df080169.chunk.js",
+    "main.js.map": "/kittiesnthugs/static/js/main.df080169.chunk.js.map",
+    "runtime-main.js": "/kittiesnthugs/static/js/runtime-main.4c07fc59.js",
+    "runtime-main.js.map": "/kittiesnthugs/static/js/runtime-main.4c07fc59.js.map",
+    "static/js/2.356d906f.chunk.js": "/kittiesnthugs/static/js/2.356d906f.chunk.js",
+    "static/js/2.356d906f.chunk.js.map": "/kittiesnthugs/static/js/2.356d906f.chunk.js.map",
+    "index.html": "/kittiesnthugs/index.html",
+    "precache-manifest.1af1dbd50ed93ec9c7d25c801567559e.js": "/kittiesnthugs/precache-manifest.1af1dbd50ed93ec9c7d25c801567559e.js",
+    "service-worker.js": "/kittiesnthugs/service-worker.js",
+    "static/css/main.fb82b465.chunk.css.map": "/kittiesnthugs/static/css/main.fb82b465.chunk.css.map",
+    "static/js/2.356d906f.chunk.js.LICENSE.txt": "/kittiesnthugs/static/js/2.356d906f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4c07fc59.js",
+    "static/js/2.356d906f.chunk.js",
+    "static/css/main.fb82b465.chunk.css",
+    "static/js/main.df080169.chunk.js"
+  ]
+}
